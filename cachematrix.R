@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Write a short comment describing this function
+## makeCacheMatrix creates a list of four functions that will 
+##operate on a vector x, which is expressed as a square matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
